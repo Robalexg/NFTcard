@@ -112,6 +112,7 @@
 }
 .card--overlay:hover{
     opacity: 1;
+    cursor: pointer;
 }
 
 .card--imgcontainer{
