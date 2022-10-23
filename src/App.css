@@ -3,3 +3,27 @@
   margin: 0;
   padding: 0;
 }
+
+body{
+  font-family: 'Outfit', sans-serif;
+  background-color: hsl(217, 54%, 11%);
+}
+
+
+.App{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.bold{
+  font-weight: 600;
+  color: white;
+}
+
+.bold:hover{
+  color: hsl(178, 100%, 50%);
+  cursor: pointer;
+}
